@@ -98,16 +98,7 @@ Dedicated **MERN Stack Developer** with expertise in building scalable, producti
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreehari-vr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreehari-vr&layout=compact&theme=tokyonight&hide_border=true)
-  
-</div>
 
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=sreehari-vr&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7)
   
 </div>
 
