@@ -66,6 +66,7 @@ Dedicated **MERN Stack Developer** with expertise in building scalable, producti
 
 ### 💬 **TechTribe - Developer Networking Platform** *(In Development)*
 [![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreehari-vr/techTribe.git)
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreehari-vr/frontend.git)
 
 **Tech Stack:** React • Node.js • Redux • Socket.io • MongoDB • JWT
 
